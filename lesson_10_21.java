@@ -5,8 +5,8 @@ public class lesson_10_21 {
     //Допустим, у вас есть различные переменные с данными. Как вывести их на экран одной строкой?
     //Например, у нас есть данные (левая колонка) и желаемый вывод (правая колонка):
 
-    //Код	                            Вывод на экран
-    static String name = "Amigo";              //User = {name: Amigo, age: 12 years, friend: Diego, weight: 200 kg.}
+    //Код	                                    Вывод на экран
+    static String name = "Amigo";               //User = {name: Amigo, age: 12 years, friend: Diego, weight: 200 kg.}
     static int age = 12;
     static String friend = "Diego";
     static int weight = 200;
